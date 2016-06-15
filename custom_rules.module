@@ -1,0 +1,4 @@
+<?php
+
+module_load_include( 'inc', 'custom_rules', 'includes/custom_rules.actions' );
+module_load_include( 'inc', 'custom_rules', 'includes/custom_rules.conditions' );

@@ -1,0 +1,5 @@
+name = Custom Rules
+description = A module with some generic custom rule conditions and actions
+core = 7.x
+package = Custom
+dependencies[] = rules
