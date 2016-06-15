@@ -7,20 +7,20 @@
  */
 function custom_rules_rules_condition_info() {
 	return array(
-		'custom_rules_is_during_password_reset' => array(
-			'label' => t('Is during password reset'),
+		'custom_rules_is_cron_running' => array(
+			'label' => t('Is cron running'),
 			'group' => t('Custom Rules'),
 		),
-		'custom_rules_is_during_oauth' => array(
-			'label' => t('Is during OAuth'),
+		'custom_rules_is_during_password_reset' => array(
+			'label' => t('Is during password reset'),
 			'group' => t('Custom Rules'),
 		),
 		'custom_rules_is_destination_set' => array(
 			'label' => t('Is destination set in URL'),
 			'group' => t('Custom Rules'),
 		),
-		'custom_rules_is_cron_running' => array(
-			'label' => t('Is cron running'),
+		'custom_rules_is_during_oauth' => array(
+			'label' => t('Is during OAuth'),
 			'group' => t('Custom Rules'),
 		),
 	);
