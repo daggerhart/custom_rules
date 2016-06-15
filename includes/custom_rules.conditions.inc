@@ -2,6 +2,8 @@
 
 /**
  * Implements hook_rules_condition_info().
+ *
+ * http://www.drupalcontrib.org/api/drupal/contributions!rules!rules.api.php/function/hook_rules_condition_info/7
  */
 function custom_rules_rules_condition_info() {
 	return array(

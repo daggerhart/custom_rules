@@ -1,4 +1,9 @@
 <?php
 
+/*
+ * Include our files
+ *
+ * https://api.drupal.org/api/drupal/includes%21module.inc/function/module_load_include/7.x
+ */
 module_load_include( 'inc', 'custom_rules', 'includes/custom_rules.actions' );
 module_load_include( 'inc', 'custom_rules', 'includes/custom_rules.conditions' );

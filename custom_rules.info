@@ -1,5 +1,6 @@
 name = Custom Rules
 description = A module with some generic custom rule conditions and actions
 core = 7.x
+vesion = "7.x-1.0"
 package = Custom
 dependencies[] = rules
